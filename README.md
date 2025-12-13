@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Shrivastava</h1>
 <h3 align="center">CSE (AI/ML) Undergraduate @ VIT Bhopal | Python & Web Development Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitshrivastava2007&label=Profile%20views&color=0e75b6&style=flat" alt="sumitshrivastava2007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitshrivastava2007" alt="sumitshrivastava2007" /></a> </p>
-
 - 🌱 I’m currently learning **Python and Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumitshrivastava2007](https://github.com/sumitshrivastava2007)
