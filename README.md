@@ -8,13 +8,12 @@
 - 💬 Ask me about **HTML,CSS and JavaScript**
 
 - 📫 How to reach me **sumitshrivastava0961@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sumit-shrivastava-212323379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-shrivastava-212323379" height="30" width="40" /></a>
 <a href="https://instagram.com/sumitshrivastava_2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitshrivastava_2007" height="30" width="40" /></a>
 </p>
-
+<img align="right" src="https://www.tech-bhai.com/wp-content/uploads/2024/10/gifImg-8.gif" alt="img" height="300px" width="500px"/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -71,4 +70,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitshrivastava2007&show_icons=true&locale=en" alt="sumitshrivastava2007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitshrivastava2007&" alt="sumitshrivastava2007" /></p>
