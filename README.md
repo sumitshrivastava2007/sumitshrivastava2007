@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Shrivastava</h1>
 <h3 align="center">CSE (AI/ML) Undergraduate @ VIT Bhopal | Python & Web Development Enthusiast</h3>
 
-- 🌱 I’m currently learning **Python and Backend Development**
+- 🌱 I’m currently learning **Java and Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumitshrivastava2007](https://github.com/sumitshrivastava2007)
 
